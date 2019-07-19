@@ -1,0 +1,1044 @@
+[29-May-2016 08:25:15 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/purchase/a.php on line 10
+[29-May-2016 08:31:58 UTC] PHP Warning:  require(../Database.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/a.php on line 3
+[29-May-2016 08:31:58 UTC] PHP Stack trace:
+[29-May-2016 08:31:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:31:58 UTC] PHP Fatal error:  require(): Failed opening required '../Database.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/a.php on line 3
+[29-May-2016 08:31:58 UTC] PHP Stack trace:
+[29-May-2016 08:31:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:33:00 UTC] PHP Fatal error:  Class 'DB' not found in /home/ubuntu/workspace/purchase/a.php on line 4
+[29-May-2016 08:33:00 UTC] PHP Stack trace:
+[29-May-2016 08:33:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:33:13 UTC] PHP Warning:  require(smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:33:13 UTC] PHP Stack trace:
+[29-May-2016 08:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:33:13 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:33:13 UTC] PHP Fatal error:  require(): Failed opening required 'smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:33:13 UTC] PHP Stack trace:
+[29-May-2016 08:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:33:13 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:34:13 UTC] PHP Warning:  require(smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:34:13 UTC] PHP Stack trace:
+[29-May-2016 08:34:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:34:13 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:34:13 UTC] PHP Fatal error:  require(): Failed opening required 'smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:34:13 UTC] PHP Stack trace:
+[29-May-2016 08:34:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:34:13 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:34:40 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:00 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:03 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:51 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:52 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:52 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:54 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:56 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:35:56 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:37:28 UTC] PHP Warning:  require(smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:37:28 UTC] PHP Stack trace:
+[29-May-2016 08:37:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:37:28 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:37:28 UTC] PHP Fatal error:  require(): Failed opening required 'smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:37:28 UTC] PHP Stack trace:
+[29-May-2016 08:37:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:37:28 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:37:57 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:40:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:42:49 UTC] PHP Warning:  require(smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:42:49 UTC] PHP Stack trace:
+[29-May-2016 08:42:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:42:49 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:42:49 UTC] PHP Fatal error:  require(): Failed opening required 'smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MySmarty.php on line 3
+[29-May-2016 08:42:49 UTC] PHP Stack trace:
+[29-May-2016 08:42:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 08:42:49 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 08:43:04 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:45:44 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:45:48 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:50 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:50 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:51 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:52 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:52 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:52 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:52 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:54 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:46:54 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:50:11 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:50:12 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:59:33 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:59:33 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:59:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:59:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 08:59:35 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:00:29 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:00:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:00:35 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:00:35 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:00:35 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:01:29 UTC] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:01:29 UTC] PHP Stack trace:
+[29-May-2016 09:01:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:01:29 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:01:29 UTC] PHP Warning:  require(https://db-finalreport-john777.c9users.io/smarty/smarty/libs/Smarty.class.php): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:01:29 UTC] PHP Stack trace:
+[29-May-2016 09:01:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:01:29 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:01:29 UTC] PHP Fatal error:  require(): Failed opening required 'https://db-finalreport-john777.c9users.io/smarty/smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:01:29 UTC] PHP Stack trace:
+[29-May-2016 09:01:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:01:29 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:14:35 UTC] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:14:35 UTC] PHP Stack trace:
+[29-May-2016 09:14:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:14:35 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:14:35 UTC] PHP Warning:  require(https://db-finalreport-john777.c9users.io/smarty/smarty/libs/Smarty.class.php): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:14:35 UTC] PHP Stack trace:
+[29-May-2016 09:14:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:14:35 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:14:35 UTC] PHP Fatal error:  require(): Failed opening required 'https://db-finalreport-john777.c9users.io/smarty/smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:14:35 UTC] PHP Stack trace:
+[29-May-2016 09:14:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:14:35 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:14:57 UTC] PHP Warning:  require(smarty/smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:14:57 UTC] PHP Stack trace:
+[29-May-2016 09:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:14:57 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:14:57 UTC] PHP Fatal error:  require(): Failed opening required 'smarty/smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:14:57 UTC] PHP Stack trace:
+[29-May-2016 09:14:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:14:57 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:15:22 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:07 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:07 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:08 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:15 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:16 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:16 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:23:16 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:27:46 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:29:44 UTC] PHP Fatal error:  Call to a member function setTemplateDir() on a non-object in /home/ubuntu/workspace/smarty/MySmarty.php on line 13
+[29-May-2016 09:29:44 UTC] PHP Stack trace:
+[29-May-2016 09:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:29:44 UTC] PHP   2. MySmarty::initSmarty() /home/ubuntu/workspace/purchase/a.php:9
+[29-May-2016 09:31:29 UTC] PHP Fatal error:  Call to a member function setTemplateDir() on a non-object in /home/ubuntu/workspace/smarty/MySmarty.php on line 13
+[29-May-2016 09:31:29 UTC] PHP Stack trace:
+[29-May-2016 09:31:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:31:29 UTC] PHP   2. MySmarty::initSmarty() /home/ubuntu/workspace/purchase/a.php:9
+[29-May-2016 09:31:30 UTC] PHP Fatal error:  Call to a member function setTemplateDir() on a non-object in /home/ubuntu/workspace/smarty/MySmarty.php on line 13
+[29-May-2016 09:31:30 UTC] PHP Stack trace:
+[29-May-2016 09:31:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:31:30 UTC] PHP   2. MySmarty::initSmarty() /home/ubuntu/workspace/purchase/a.php:9
+[29-May-2016 09:32:24 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:32:36 UTC] PHP Warning:  require(smarty/smarty/libs/Smarty.class.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:32:36 UTC] PHP Stack trace:
+[29-May-2016 09:32:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:32:36 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:32:36 UTC] PHP Fatal error:  require(): Failed opening required 'smarty/smarty/libs/Smarty.class.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/smarty/MySmarty.php on line 3
+[29-May-2016 09:32:36 UTC] PHP Stack trace:
+[29-May-2016 09:32:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/a.php:0
+[29-May-2016 09:32:36 UTC] PHP   2. require() /home/ubuntu/workspace/purchase/a.php:8
+[29-May-2016 09:32:44 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:38:57 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:38:58 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:38:58 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:04 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:04 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:12 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:13 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:13 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:13 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:14 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:14 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:39:14 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:42 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:43 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:45 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:46 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:46 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:47 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:47 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:48 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:48 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:48 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:41:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:37 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:39 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:40 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:42 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:42 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:42 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:42 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:44:46 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:49:07 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 09:49:08 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file '../smarty/templates.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[29-May-2016 10:08:09 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_purch1-1.tpl"  on line 41 "tr:nth-child(even){background-color: #f2f2f2}"  - Unexpected ": ", expected one of: "}" <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 41
+[29-May-2016 10:12:44 UTC] PHP Parse error:  syntax error, unexpected 'fetchAll' (T_STRING) in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 7
+[29-May-2016 10:12:56 UTC] PHP Parse error:  syntax error, unexpected 'fetchAll' (T_STRING) in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 7
+[29-May-2016 10:12:57 UTC] PHP Parse error:  syntax error, unexpected 'fetchAll' (T_STRING) in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 7
+[29-May-2016 10:12:57 UTC] PHP Parse error:  syntax error, unexpected 'fetchAll' (T_STRING) in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 7
+[29-May-2016 10:12:58 UTC] PHP Parse error:  syntax error, unexpected 'fetchAll' (T_STRING) in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 7
+[29-May-2016 13:15:06 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 8
+[29-May-2016 13:15:06 UTC] PHP Stack trace:
+[29-May-2016 13:15:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[29-May-2016 13:15:39 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 8
+[29-May-2016 13:15:39 UTC] PHP Stack trace:
+[29-May-2016 13:15:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[29-May-2016 13:16:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 8
+[29-May-2016 13:37:54 UTC] PHP Fatal error:  Call to undefined function fetch() in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 15
+[29-May-2016 13:37:54 UTC] PHP Stack trace:
+[29-May-2016 13:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[29-May-2016 13:40:00 UTC] PHP Fatal error:  Call to undefined function fetchAll() in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 15
+[29-May-2016 13:40:00 UTC] PHP Stack trace:
+[29-May-2016 13:40:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[29-May-2016 14:17:30 UTC] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 10
+[29-May-2016 14:17:30 UTC] PHP Stack trace:
+[29-May-2016 14:17:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[29-May-2016 14:20:23 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 11
+[30-May-2016 11:14:52 UTC] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/do_purch.php on line 2
+[30-May-2016 11:14:52 UTC] PHP Stack trace:
+[30-May-2016 11:14:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/do_purch.php:0
+[30-May-2016 11:14:52 UTC] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/do_purch.php on line 2
+[30-May-2016 11:14:52 UTC] PHP Stack trace:
+[30-May-2016 11:14:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/do_purch.php:0
+[30-May-2016 11:15:03 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:15:03 UTC] PHP Stack trace:
+[30-May-2016 11:15:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:15:03 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:15:03 UTC] PHP Stack trace:
+[30-May-2016 11:15:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:15:06 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:15:06 UTC] PHP Stack trace:
+[30-May-2016 11:15:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:15:06 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:15:06 UTC] PHP Stack trace:
+[30-May-2016 11:15:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:20:03 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:20:03 UTC] PHP Stack trace:
+[30-May-2016 11:20:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:20:03 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:20:03 UTC] PHP Stack trace:
+[30-May-2016 11:20:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:20:08 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:20:08 UTC] PHP Stack trace:
+[30-May-2016 11:20:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 11:20:08 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 11:20:08 UTC] PHP Stack trace:
+[30-May-2016 11:20:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 16:48:18 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 16:48:18 UTC] PHP Stack trace:
+[30-May-2016 16:48:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 16:48:18 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 16:48:18 UTC] PHP Stack trace:
+[30-May-2016 16:48:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 16:51:50 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 16:51:50 UTC] PHP Stack trace:
+[30-May-2016 16:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 16:51:50 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 16:51:50 UTC] PHP Stack trace:
+[30-May-2016 16:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 16:52:01 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 16:52:01 UTC] PHP Stack trace:
+[30-May-2016 16:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 16:52:01 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 16:52:01 UTC] PHP Stack trace:
+[30-May-2016 16:52:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 17:04:15 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 17:04:15 UTC] PHP Stack trace:
+[30-May-2016 17:04:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 17:04:15 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 17:04:15 UTC] PHP Stack trace:
+[30-May-2016 17:04:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 17:26:36 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 17:26:36 UTC] PHP Stack trace:
+[30-May-2016 17:26:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[30-May-2016 17:26:36 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/show_purch1-1.php on line 3
+[30-May-2016 17:26:36 UTC] PHP Stack trace:
+[30-May-2016 17:26:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/show_purch1-1.php:0
+[05-Jun-2016 06:09:47 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 06:09:47 UTC] PHP Stack trace:
+[05-Jun-2016 06:09:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 06:09:47 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 06:09:47 UTC] PHP Stack trace:
+[05-Jun-2016 06:09:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 13:58:13 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 13:58:13 UTC] PHP Stack trace:
+[05-Jun-2016 13:58:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 13:58:13 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 13:58:13 UTC] PHP Stack trace:
+[05-Jun-2016 13:58:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:00:57 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:00:57 UTC] PHP Stack trace:
+[05-Jun-2016 14:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:00:57 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:00:57 UTC] PHP Stack trace:
+[05-Jun-2016 14:00:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:01:17 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:01:17 UTC] PHP Stack trace:
+[05-Jun-2016 14:01:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:01:17 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:01:17 UTC] PHP Stack trace:
+[05-Jun-2016 14:01:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:01:56 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:01:56 UTC] PHP Stack trace:
+[05-Jun-2016 14:01:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:01:56 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:01:56 UTC] PHP Stack trace:
+[05-Jun-2016 14:01:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:02:13 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:02:13 UTC] PHP Stack trace:
+[05-Jun-2016 14:02:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:02:13 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:02:13 UTC] PHP Stack trace:
+[05-Jun-2016 14:02:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:08:23 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:08:23 UTC] PHP Stack trace:
+[05-Jun-2016 14:08:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:08:23 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:08:23 UTC] PHP Stack trace:
+[05-Jun-2016 14:08:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:08:51 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:08:51 UTC] PHP Stack trace:
+[05-Jun-2016 14:08:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:08:51 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:08:51 UTC] PHP Stack trace:
+[05-Jun-2016 14:08:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:09:35 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 37
+[05-Jun-2016 14:09:35 UTC] PHP Stack trace:
+[05-Jun-2016 14:09:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:09:35 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 37
+[05-Jun-2016 14:09:35 UTC] PHP Stack trace:
+[05-Jun-2016 14:09:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:09:56 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 37
+[05-Jun-2016 14:09:56 UTC] PHP Stack trace:
+[05-Jun-2016 14:09:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:09:56 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 37
+[05-Jun-2016 14:09:56 UTC] PHP Stack trace:
+[05-Jun-2016 14:09:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:10:00 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 37
+[05-Jun-2016 14:10:00 UTC] PHP Stack trace:
+[05-Jun-2016 14:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:10:00 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 37
+[05-Jun-2016 14:10:00 UTC] PHP Stack trace:
+[05-Jun-2016 14:10:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:12:10 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:12:10 UTC] PHP Stack trace:
+[05-Jun-2016 14:12:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:12:10 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:12:10 UTC] PHP Stack trace:
+[05-Jun-2016 14:12:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:15:12 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:15:12 UTC] PHP Stack trace:
+[05-Jun-2016 14:15:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:15:12 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:15:12 UTC] PHP Stack trace:
+[05-Jun-2016 14:15:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:15:53 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:15:53 UTC] PHP Stack trace:
+[05-Jun-2016 14:15:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:15:53 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:15:53 UTC] PHP Stack trace:
+[05-Jun-2016 14:15:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:23 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:23 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:23 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:23 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:23 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:23 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:23 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:23 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:24 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:24 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:25 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:25 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:25 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:25 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:26 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:26 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:26 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:26 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:26 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:26 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:26 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:26 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:27 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:27 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:27 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:27 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:27 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:27 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:16:27 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:16:27 UTC] PHP Stack trace:
+[05-Jun-2016 14:16:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:17:30 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:17:30 UTC] PHP Stack trace:
+[05-Jun-2016 14:17:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:17:30 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:17:30 UTC] PHP Stack trace:
+[05-Jun-2016 14:17:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:18:05 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:18:05 UTC] PHP Stack trace:
+[05-Jun-2016 14:18:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:18:05 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_insert_stock.php on line 2
+[05-Jun-2016 14:18:05 UTC] PHP Stack trace:
+[05-Jun-2016 14:18:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_insert_stock.php:0
+[05-Jun-2016 14:18:21 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:18:21 UTC] PHP Stack trace:
+[05-Jun-2016 14:18:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:18:21 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:18:21 UTC] PHP Stack trace:
+[05-Jun-2016 14:18:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:20:49 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:20:49 UTC] PHP Stack trace:
+[05-Jun-2016 14:20:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:20:49 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:20:49 UTC] PHP Stack trace:
+[05-Jun-2016 14:20:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:23:52 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:23:52 UTC] PHP Stack trace:
+[05-Jun-2016 14:23:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:23:52 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:23:52 UTC] PHP Stack trace:
+[05-Jun-2016 14:23:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:24:14 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:24:14 UTC] PHP Stack trace:
+[05-Jun-2016 14:24:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:24:14 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:24:14 UTC] PHP Stack trace:
+[05-Jun-2016 14:24:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:25:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock1-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 14:26:38 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:26:38 UTC] PHP Stack trace:
+[05-Jun-2016 14:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:26:38 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:26:38 UTC] PHP Stack trace:
+[05-Jun-2016 14:26:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:27:37 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:27:37 UTC] PHP Stack trace:
+[05-Jun-2016 14:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:27:37 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:27:37 UTC] PHP Stack trace:
+[05-Jun-2016 14:27:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:27:41 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:27:41 UTC] PHP Stack trace:
+[05-Jun-2016 14:27:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:27:41 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:27:41 UTC] PHP Stack trace:
+[05-Jun-2016 14:27:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:28:48 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:28:48 UTC] PHP Stack trace:
+[05-Jun-2016 14:28:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:28:48 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:28:48 UTC] PHP Stack trace:
+[05-Jun-2016 14:28:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:30:57 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:30:57 UTC] PHP Stack trace:
+[05-Jun-2016 14:30:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:30:57 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:30:57 UTC] PHP Stack trace:
+[05-Jun-2016 14:30:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:31:20 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:31:20 UTC] PHP Stack trace:
+[05-Jun-2016 14:31:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:31:20 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:31:20 UTC] PHP Stack trace:
+[05-Jun-2016 14:31:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:31:36 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:31:36 UTC] PHP Stack trace:
+[05-Jun-2016 14:31:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:31:36 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:31:36 UTC] PHP Stack trace:
+[05-Jun-2016 14:31:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:32:05 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:32:05 UTC] PHP Stack trace:
+[05-Jun-2016 14:32:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:32:05 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:32:05 UTC] PHP Stack trace:
+[05-Jun-2016 14:32:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:32:34 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:32:34 UTC] PHP Stack trace:
+[05-Jun-2016 14:32:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:32:34 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:32:34 UTC] PHP Stack trace:
+[05-Jun-2016 14:32:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:32:54 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:32:54 UTC] PHP Stack trace:
+[05-Jun-2016 14:32:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:32:54 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:32:54 UTC] PHP Stack trace:
+[05-Jun-2016 14:32:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:50:33 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:50:33 UTC] PHP Stack trace:
+[05-Jun-2016 14:50:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:50:33 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:50:33 UTC] PHP Stack trace:
+[05-Jun-2016 14:50:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:54:05 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:54:05 UTC] PHP Stack trace:
+[05-Jun-2016 14:54:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:54:05 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:54:05 UTC] PHP Stack trace:
+[05-Jun-2016 14:54:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:54:19 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:54:19 UTC] PHP Stack trace:
+[05-Jun-2016 14:54:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 14:54:19 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock1-1.php on line 10
+[05-Jun-2016 14:54:19 UTC] PHP Stack trace:
+[05-Jun-2016 14:54:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock1-1.php:0
+[05-Jun-2016 15:11:34 UTC] PHP Parse error:  syntax error, unexpected '$InvRecipt_date' (T_VARIABLE) in /home/ubuntu/workspace/stock/do_insert_stock.php on line 6
+[05-Jun-2016 15:46:50 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 15:46:50 UTC] PHP Stack trace:
+[05-Jun-2016 15:46:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 15:46:50 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 15:46:50 UTC] PHP Stack trace:
+[05-Jun-2016 15:46:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 15:47:44 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 27
+[05-Jun-2016 15:47:44 UTC] PHP Stack trace:
+[05-Jun-2016 15:47:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 15:47:44 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 27
+[05-Jun-2016 15:47:44 UTC] PHP Stack trace:
+[05-Jun-2016 15:47:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 15:47:57 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:48:28 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:48:29 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:49:18 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:50:10 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:50:25 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:50:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:51:20 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:51:36 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:51:50 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 15:52:31 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:52:42 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:52:42 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:52:43 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:52:43 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:52:43 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:53:17 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 27
+[05-Jun-2016 15:53:17 UTC] PHP Stack trace:
+[05-Jun-2016 15:53:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 15:53:17 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 27
+[05-Jun-2016 15:53:17 UTC] PHP Stack trace:
+[05-Jun-2016 15:53:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 15:53:35 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:53:46 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 15:53:47 UTC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "file:/home/ubuntu/workspace/smarty/templates/show_stock0-1.tpl"  on line 174 "" unclosed {foreach} tag <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_templatecompilerbase.php on line 174
+[05-Jun-2016 16:11:14 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Sales/show_sales1-1.php on line 10
+[05-Jun-2016 16:11:14 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales1-1.php:0
+[05-Jun-2016 16:11:14 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Sales/show_sales1-1.php on line 10
+[05-Jun-2016 16:11:14 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales1-1.php:0
+[05-Jun-2016 16:11:23 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Sales/show_sales1-1.php on line 10
+[05-Jun-2016 16:11:23 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales1-1.php:0
+[05-Jun-2016 16:11:23 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Sales/show_sales1-1.php on line 10
+[05-Jun-2016 16:11:23 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales1-1.php:0
+[05-Jun-2016 16:11:27 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Sales/show_sales2-1.php on line 10
+[05-Jun-2016 16:11:27 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales2-1.php:0
+[05-Jun-2016 16:11:27 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Sales/show_sales2-1.php on line 10
+[05-Jun-2016 16:11:27 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales2-1.php:0
+[05-Jun-2016 16:11:31 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Sales/show_sales3-1.php on line 10
+[05-Jun-2016 16:11:31 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales3-1.php:0
+[05-Jun-2016 16:11:31 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Sales/show_sales3-1.php on line 10
+[05-Jun-2016 16:11:31 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales3-1.php:0
+[05-Jun-2016 16:11:33 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Sales/show_sales3-2.php on line 8
+[05-Jun-2016 16:11:33 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales3-2.php:0
+[05-Jun-2016 16:11:33 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Sales/show_sales3-2.php on line 8
+[05-Jun-2016 16:11:33 UTC] PHP Stack trace:
+[05-Jun-2016 16:11:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Sales/show_sales3-2.php:0
+[05-Jun-2016 16:18:54 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:19:33 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:19:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:27:43 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:27:43 UTC] PHP Stack trace:
+[05-Jun-2016 16:27:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:27:43 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:27:43 UTC] PHP Stack trace:
+[05-Jun-2016 16:27:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:28:05 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:28:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:29:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/stock/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:29:45 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/stock/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:29:46 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:29:46 UTC] PHP Stack trace:
+[05-Jun-2016 16:29:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:29:46 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:29:46 UTC] PHP Stack trace:
+[05-Jun-2016 16:29:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:29:58 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:30:00 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:30:00 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:30:00 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:30:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:30:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:30:50 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:31:17 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:17 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:17 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:17 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:20 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:20 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:20 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:20 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:22 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:22 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:22 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:22 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:51 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:51 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:31:51 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:31:51 UTC] PHP Stack trace:
+[05-Jun-2016 16:31:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:33:35 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:34:16 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:34:16 UTC] PHP Stack trace:
+[05-Jun-2016 16:34:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:34:16 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:34:16 UTC] PHP Stack trace:
+[05-Jun-2016 16:34:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:34:28 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 19
+[05-Jun-2016 16:34:28 UTC] PHP Stack trace:
+[05-Jun-2016 16:34:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:34:28 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 19
+[05-Jun-2016 16:34:28 UTC] PHP Stack trace:
+[05-Jun-2016 16:34:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:34:38 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:34:40 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:34:40 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:34:41 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:35:05 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:35:05 UTC] PHP Stack trace:
+[05-Jun-2016 16:35:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:35:05 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:35:05 UTC] PHP Stack trace:
+[05-Jun-2016 16:35:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:35:23 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:36:29 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:00 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:00 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:09 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:37:44 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:37:44 UTC] PHP Stack trace:
+[05-Jun-2016 16:37:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:37:44 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:37:44 UTC] PHP Stack trace:
+[05-Jun-2016 16:37:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:37:49 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:37:49 UTC] PHP Stack trace:
+[05-Jun-2016 16:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:37:49 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:37:49 UTC] PHP Stack trace:
+[05-Jun-2016 16:37:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:38:16 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:38:37 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:29 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:30 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:30 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:30 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:32 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:36 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:39:41 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:44:53 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:45:16 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:45:16 UTC] PHP Stack trace:
+[05-Jun-2016 16:45:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:45:16 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:45:16 UTC] PHP Stack trace:
+[05-Jun-2016 16:45:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:45:19 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:46:44 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:47:17 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 16:48:08 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 19
+[05-Jun-2016 16:48:08 UTC] PHP Stack trace:
+[05-Jun-2016 16:48:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:48:08 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 19
+[05-Jun-2016 16:48:08 UTC] PHP Stack trace:
+[05-Jun-2016 16:48:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:48:10 UTC] PHP Warning:  require(MySmarty.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 19
+[05-Jun-2016 16:48:10 UTC] PHP Stack trace:
+[05-Jun-2016 16:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:48:10 UTC] PHP Fatal error:  require(): Failed opening required 'MySmarty.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 19
+[05-Jun-2016 16:48:10 UTC] PHP Stack trace:
+[05-Jun-2016 16:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:49:15 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:49:15 UTC] PHP Stack trace:
+[05-Jun-2016 16:49:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:49:15 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:49:15 UTC] PHP Stack trace:
+[05-Jun-2016 16:49:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:51:32 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:51:32 UTC] PHP Stack trace:
+[05-Jun-2016 16:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:51:32 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 16:51:32 UTC] PHP Stack trace:
+[05-Jun-2016 16:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 16:51:41 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:51:41 UTC] PHP Stack trace:
+[05-Jun-2016 16:51:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 16:51:41 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock4-1.php on line 4
+[05-Jun-2016 16:51:41 UTC] PHP Stack trace:
+[05-Jun-2016 16:51:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock4-1.php:0
+[05-Jun-2016 17:08:04 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/do_query_stock.php on line 10
+[05-Jun-2016 17:08:04 UTC] PHP Stack trace:
+[05-Jun-2016 17:08:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_query_stock.php:0
+[05-Jun-2016 17:08:04 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/do_query_stock.php on line 10
+[05-Jun-2016 17:08:04 UTC] PHP Stack trace:
+[05-Jun-2016 17:08:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/do_query_stock.php:0
+[05-Jun-2016 17:09:04 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:16:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:18:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:19:51 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:21:44 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:22:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:23:32 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:25:43 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:27:20 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:27:20 UTC] PHP Stack trace:
+[05-Jun-2016 17:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:27:20 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:27:20 UTC] PHP Stack trace:
+[05-Jun-2016 17:27:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:27:57 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:27:57 UTC] PHP Stack trace:
+[05-Jun-2016 17:27:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:27:57 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:27:57 UTC] PHP Stack trace:
+[05-Jun-2016 17:27:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:30:27 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:30:27 UTC] PHP Stack trace:
+[05-Jun-2016 17:30:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:30:27 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:30:27 UTC] PHP Stack trace:
+[05-Jun-2016 17:30:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:10 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:10 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:10 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:10 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:11 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:11 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:11 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:11 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:11 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:11 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:11 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:11 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:11 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:11 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:11 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:11 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:31:12 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:31:12 UTC] PHP Stack trace:
+[05-Jun-2016 17:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:32:11 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:33:47 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:34:03 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:36:38 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:38:06 UTC] PHP Warning:  require(MySQL.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:38:06 UTC] PHP Stack trace:
+[05-Jun-2016 17:38:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:38:06 UTC] PHP Fatal error:  require(): Failed opening required 'MySQL.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/stock/show_stock0-1.php on line 10
+[05-Jun-2016 17:38:06 UTC] PHP Stack trace:
+[05-Jun-2016 17:38:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/stock/show_stock0-1.php:0
+[05-Jun-2016 17:42:37 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:43:50 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:45:34 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:45:54 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:47:19 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:48:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'db_finalreport/smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:51:19 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:51:55 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:52:07 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:54:27 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock0-1.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:55:01 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'stock/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:58:36 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:59:35 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 17:59:49 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[05-Jun-2016 18:02:30 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:10:14 UTC] PHP Warning:  require(mysql.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/purchase/do_purch.php on line 2
+[06-Jun-2016 11:10:14 UTC] PHP Stack trace:
+[06-Jun-2016 11:10:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/do_purch.php:0
+[06-Jun-2016 11:10:14 UTC] PHP Fatal error:  require(): Failed opening required 'mysql.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/purchase/do_purch.php on line 2
+[06-Jun-2016 11:10:14 UTC] PHP Stack trace:
+[06-Jun-2016 11:10:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/purchase/do_purch.php:0
+[06-Jun-2016 11:18:22 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:21:03 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:23:29 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:23:32 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:24:57 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:34:30 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 11:34:56 UTC] PHP Fatal error:  Uncaught  --> Smarty: Unable to load template file 'smarty/templates/show_stock4-2.tpl' <-- 
+  thrown in /home/ubuntu/workspace/smarty/smarty/libs/sysplugins/smarty_internal_template.php on line 139
+[06-Jun-2016 17:04:30 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/ubuntu/workspace/login&logout/do_fb_login.php on line 9

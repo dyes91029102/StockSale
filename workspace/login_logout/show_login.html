@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="shortcut icon" href="../css/img/幸.ico"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>找到幸福</title>
+
+    <!-- Log in CSS -->
+    <link href="../css/css/login.css" rel="stylesheet">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../css/css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+   
+
+    <!-- Header -->
+    <header id="top" class="header">
+        <div class="text-vertical-center">
+            <h1>找到幸福</h1>
+            <h3><b>進銷存管理系統</b></h3>
+            <br>
+            <a href="#about" class="btn btn-dark btn-lg">Log in</a>
+        </div>
+        
+    </header>
+
+    <!-- About -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <form class=form-signin role=form action="index.php?func=action_login" method="POST">
+            		<h2 class=form-signin-heading><font color=#000000>Please sign in</font></h2>
+            		<label for=inputAccount class=sr-only>Account</label> 
+            		<input type=text id=inputAccount name="account" class=form-control placeholder="Account" required> 
+            		<label for=inputPassword class=sr-only>Password</label>
+            		<input type=password id=inputPassword name="password"class=form-control placeholder=Password required>
+            		<button class="btn btn-lg btn-primary btn-block" type=submit>Sign in</button><br>
+            	 </form>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+    
+    
+
+
+
+        <!-- Footer -->
+    <footer>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="../css/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../css/js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+</body>
+
+</html>
